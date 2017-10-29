@@ -1,0 +1,4 @@
+# Adding a linkto the Lentil and Potato Curry Recipe
+#
+https://www.ricardocuisine.com/en/recipes/5155-lentil-and-potato-curry
+
